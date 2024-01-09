@@ -11,4 +11,8 @@
   <ItemGroup>
     <PackageReference Include="Falco" Version="4.*" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Falco.Htmx\src\Falco.Htmx\Falco.Htmx.fsproj" />
+  </ItemGroup>
 </Project>
