@@ -1,0 +1,3 @@
+[submodule "Falco.Htmx"]
+	path = Falco.Htmx
+	url = https://github.com/dpraimeyuu/Falco.Htmx.git
